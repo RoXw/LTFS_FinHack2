@@ -6,8 +6,8 @@ Holidays are taken from the [website](https://www.india.gov.in/calendar)
 
 
 To run the code:
-* update the location of train and test files in config.py
-* update the location to store the submission file
+* update the path of train and test files in ```config.py```
+* update the path where to store the submission file in ```config.py```
 
 Install all the requirments using ```pip install -r requirements.txt```
 To run the main file ``` python main.py ```
