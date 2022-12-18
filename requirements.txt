@@ -66,7 +66,7 @@ protobuf==3.11.2
 ptyprocess==0.6.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
-Pygments==2.5.2
+Pygments==2.7.4
 PyMeeus==0.3.6
 pyparsing==2.4.6
 pyrsistent==0.15.7
